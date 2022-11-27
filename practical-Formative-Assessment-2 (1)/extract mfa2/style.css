@@ -1,0 +1,140 @@
+.logo{
+    position: absolute;
+    top:30px;
+    height: 40px;
+    width:40px;
+    left:100px;
+}
+.now{
+    background-color: hsl(22, 100%, 69%);
+    border:none;
+    padding:10px;
+    position:absolute;
+    top:300px;
+    left:210px;
+}
+.type1{
+     position: absolute;
+     top:120px;
+     left:100px;
+}
+.p2{
+    position: absolute;
+    top:220px;
+    left:150px;
+    color:hsl(221, 23%, 58%);
+}
+.rel{
+    position:absolute;
+    top:310px;
+    left:330px;
+    color:hsl(221, 23%, 58%);}
+.mech{
+    position: absolute;
+    top:350px;
+    right:170px;
+}
+.p3{
+    position: absolute;
+    top:410px;
+    right:120px;
+    color:hsl(221, 23%, 58%);
+}
+.high{
+    position:absolute;
+    top:790px;
+    left:150px;
+}
+.p4{
+    position:absolute;
+    top:840px;
+    left:100px;
+    color:hsl(221, 23%, 58%);
+}
+.wire{
+    position:absolute;
+    top:790px;
+    left:370px;
+}
+.p5{
+    position:absolute;
+    top:830px;
+    left:380px;
+    color:hsl(221, 23%, 58%);
+    font-size:medium;
+}
+.high2{
+    position: absolute;
+    top:780px;
+    left:640px;
+}
+.p6{
+    position:absolute;
+    top:820px;
+    left:650px;
+    color:hsl(221, 23%, 58%);
+}
+.rgb{
+    position:absolute;
+    top:780px;
+    left:910px;
+}
+.p7{
+    position:absolute;
+    top:820px;
+    left:920px;
+    color:hsl(221, 23%, 58%);
+}
+.pr2{
+    border:none;
+    padding:10px;
+    position:absolute;
+    color:grey;
+    right:20px;
+}
+.type{
+    color:white;
+}
+.ig1{
+    position:absolute;
+    top:100px;
+}
+.ig2{
+    position: absolute;
+    right:800px;
+    top:330px;
+}
+.ig3{
+    position: absolute;
+    left:200px;
+    top:10px;
+}
+.bat{
+    background-color:hsl(22, 89%, 52%);
+    position:absolute;
+    top:385px;
+    left:100px;
+    padding: 5px;
+    border:round;
+
+}
+.blue{
+    background-color:hsl(22, 89%, 52%);
+    position:absolute;
+    top:380px;
+    left:-130px;
+    padding:5px;
+}
+.com{ 
+    background-color: hsl(22, 89%, 52%);
+    position:absolute;
+    top:385px;
+    left:-370px;
+    padding:3px;
+}
+.light{
+    background-color:hsl(22, 89%, 52%);
+    position: absolute;
+    top:380px;
+    left:400px;
+}
